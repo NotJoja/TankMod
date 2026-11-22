@@ -1,6 +1,6 @@
 # TankMod
 
-A [R.E.P.O.](https://store.steampowered.com/app/3241660/REPO/) mod (BepInEx + [REPOLib](https://thunderstore.io/c/repo/p/Zehs/REPOLib/)) that adds a drivable tank to the shop.
+A [R.E.P.O.](https://store.steampowered.com/app/3241660/REPO/) mod (BepInEx + [REPOLib](https://thunderstore.io/c/repo/p/Zehs/REPOLib/)) that adds a drivable tank to the shop: a T-34-85.
 
 - Built on the game's scooter vehicle logic, scaled to roughly the size of a shopping cart.
 - Sit on top of the turret and drive; right click fires the cannon (7 rechargeable shots).
